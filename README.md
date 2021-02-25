@@ -6,7 +6,7 @@ The Asset Allocator can be used to compute best asset allocation for a taxable f
 - Apply short term and long term tax rates to both carry-over and allocation capital gains and losses,
 - Minimize tax liability to maximize portfolio value after allocation.
 
-Download the zip file of your platform from "Releases" on the right, unzip and run the AssetAllocator script under the bin folder.  Once the program starts, click on the menu item "Help" for further information.  Other folders that contain related information are:
+The latest binaries can be downloaded from https://github.com/Yafei-W/Asset-Allocator/releases.  Download the zip file of your platform, unzip and run the AssetAllocator script under the bin folder.  Once the program starts, click on the menu item "Help" for further information.  Other folders that contain related information are:
 - input: sample input files,
 - output: sample output files,
 - xsd: schema file for input and output files.
